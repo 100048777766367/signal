@@ -1,0 +1,12 @@
+{
+    "contract_id": "bodhi.signal.v1",
+    "identity": "100048777766367/signal",
+    "genesis_root": "100048777766367/contract",
+    "archetype": "ACTION_GOLEM",
+    "role": "SYNAPTIC_EVENT_DISPATCHER",
+    "network_partners": {
+        "all_nodes": "SOVEREIGN_MESH",
+        "contract": "100048777766367/contract"
+    },
+    "io_specification": "I/O (SYNAPTIC_EVENT_DISPATCHER)"
+}
